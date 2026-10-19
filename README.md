@@ -22,14 +22,7 @@ I'm especially interested in building useful applications, learning through hand
 
 ## 📊 LeetCode Journey
 
-<div align="center">
-  <a href="https://leetcode.com/u/shivangchoubey01/">
-    <img src="https://leetcard.jacoblin.cool/shivangchoubey01?theme=dark&font= Baloo&ext=heatmap" alt="LeetCode stats for Shivang Choubey" />
-  </a>
-  <p><a href="https://leetcode.com/u/shivangchoubey01/">View my LeetCode profile and problem submissions →</a></p>
-</div>
-
-> **227+ problems solved** — the exact Easy/Medium/Hard breakdown is shown on the live card when the stats service can retrieve it.
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivangchoubey01?theme=chartreuse&font=Aladin&ext=heatmap)
 
 ## 🧠 DSA Topics I'm Practicing
 
@@ -44,10 +37,39 @@ I'm especially interested in building useful applications, learning through hand
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,nodejs,express,mongodb,postgres,mongoose,prisma,docker,git,github,githubactions,html,css,tailwind,react,postman,render,vercel" alt="JavaScript, Java, Python, Node.js, Express, MongoDB, PostgreSQL, Mongoose, Prisma, Docker, Git, GitHub, GitHub Actions, HTML5, CSS3, Tailwind CSS, React, Postman, Render, and Vercel" />
+  <table>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><strong>JavaScript</strong></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/><strong>Java</strong></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/><strong>Python</strong></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/><strong>Node.js</strong></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br/><strong>Express</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/><strong>MongoDB</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><strong>PostgreSQL</strong></td>
+      <td align="center"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" height="40" alt="Mongoose"/><br/><strong>Mongoose</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/><br/><strong>Prisma</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><strong>Docker</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><strong>Git</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><strong>GitHub</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"/><br/><strong>GitHub Actions</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/><strong>HTML5</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/><strong>CSS3</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br/><strong>Tailwind CSS</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><strong>React</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/><strong>Postman</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=render" width="48" alt="Render"/><br/><strong>Render</strong></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br/><strong>Vercel</strong></td>
+    </tr>
+  </table>
 </div>
 
-**Currently focused on:** strengthening full-stack fundamentals, Docker, Git/GitHub, and CI/CD workflows.
+Currently focused on: strengthening full-stack fundamentals, Docker, Git/GitHub, and CI/CD workflows.
 
 ## 🚀 Selected Projects
 
