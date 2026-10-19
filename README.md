@@ -48,7 +48,7 @@ I'm especially interested in building useful applications, learning through hand
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/><strong>MongoDB</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/><strong>PostgreSQL</strong></td>
-      <td align="center"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" height="40" alt="Mongoose"/><br/><strong>Mongoose</strong></td>
+      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6Vb5F7ZL44X-t51-8xLJSx54DDxSuLUrBPXZGInijA&s=10" height="40" alt="Mongoose"/><br/><strong>Mongoose</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/><br/><strong>Prisma</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/><strong>Docker</strong></td>
     </tr>
@@ -63,7 +63,7 @@ I'm especially interested in building useful applications, learning through hand
       <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br/><strong>Tailwind CSS</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/><strong>React</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/><strong>Postman</strong></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=render" width="48" alt="Render"/><br/><strong>Render</strong></td>
+      <td align="center"><img src="https://pbs.twimg.com/profile_images/2002125723621060608/nxgDW055_400x400.jpg" width="48" alt="Render"/><br/><strong>Render</strong></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br/><strong>Vercel</strong></td>
     </tr>
   </table>
